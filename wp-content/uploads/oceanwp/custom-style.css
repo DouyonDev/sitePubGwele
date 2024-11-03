@@ -1,0 +1,24 @@
+/* General CSS */body, .has-parallax-footer:not(.separate-layout) #main{background-color:#f3ebcd;}.container{width:4096px;}/* Header CSS */#site-header,.has-transparent-header .is-sticky #site-header,.has-vh-transparent .is-sticky #site-header.vertical-header,#searchform-header-replace{background-color:#f3ebcd;}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5);}#site-logo #site-logo-inner a img, #site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:82px;}#site-header #site-logo #site-logo-inner a img, #site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:500px;}#site-logo.has-responsive-logo .responsive-logo-link img{max-height:1px;}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:rgba(19,175,240,0);}@media (max-width: 767px) {
+					#top-bar-nav, #site-navigation-wrap, .oceanwp-social-menu, .after-header-content {display: none;}
+					.center-logo #site-logo { float: none; position: absolute; left: 50%; padding: 0; -webkit-transform: translateX(-50%); transform: translateX(-50%); }
+					#site-header.center-header #site-logo, .oceanwp-mobile-menu-icon, #oceanwp-cart-sidebar-wrap {display: block;}
+					body.vertical-header-style #outer-wrap {margin: 0 !important;}
+					#site-header.vertical-header { position: relative; width: 100%; left: 0 !important; right: 0 !important; }
+					#site-header.vertical-header .has-template > #site-logo { display: block; }
+					#site-header.vertical-header #site-header-inner { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center;
+					align-items: center; padding: 0; max-width: 90%; }
+					#site-header.vertical-header #site-header-inner > *:not(.oceanwp-mobile-menu-icon) { display: none; }
+					#site-header.vertical-header #site-header-inner > * { padding: 0 !important; }
+					#site-header.vertical-header #site-header-inner #site-logo { display: block; margin: 0; width: 50%; text-align: left; }
+					body.rtl #site-header.vertical-header #site-header-inner #site-logo { text-align: right; }
+					#site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon { width: 50%; text-align: right; }
+					body.rtl #site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon { text-align: left; }
+					#site-header.vertical-header .vertical-toggle, body.vertical-header-style.vh-closed #site-header.vertical-header .vertical-toggle { display: none; }
+					#site-logo.has-responsive-logo .custom-logo-link { display: none; }
+					#site-logo.has-responsive-logo .responsive-logo-link { display: block; }
+					.is-sticky #site-logo.has-sticky-logo .responsive-logo-link { display: none; }
+					.is-sticky #site-logo.has-responsive-logo .sticky-logo-link { display: block; }
+					#top-bar.has-no-content #top-bar-social.top-bar-left, #top-bar.has-no-content #top-bar-social.top-bar-right {position: inherit; left: auto; right: auto; float: none; height: auto; line-height: 1.5em; margin-top: 0; text-align: center;}
+					#top-bar.has-no-content #top-bar-social li {float: none; display: inline-block;}
+					.owp-cart-overlay, #side-panel-wrap a.side-panel-btn { display: none !important; }
+				}.mobile-menu .hamburger-inner, .mobile-menu .hamburger-inner::before, .mobile-menu .hamburger-inner::after{background-color:#000000;}#mobile-dropdown{max-height:345px;}body .sidr a, body .sidr-class-dropdown-toggle, #mobile-dropdown ul li a, #mobile-dropdown ul li a .dropdown-toggle, #mobile-fullscreen ul li a, #mobile-fullscreen .oceanwp-social-menu.simple-social ul li a{color:#0367bf;}#mobile-fullscreen a.close .close-icon-inner, #mobile-fullscreen a.close .close-icon-inner::after{background-color:#0367bf;}.sidr-class-mobile-searchform button:hover, #mobile-dropdown #mobile-menu-search form button:hover{color:#0066bf;}.sidr-class-mobile-searchform button:hover .owp-icon use, #mobile-dropdown #mobile-menu-search form button:hover .owp-icon use{stroke:#0066bf;}/* Top Bar CSS */#top-bar{padding:0px}/* Typography CSS */#site-navigation-wrap .dropdown-menu > li > a,#site-header.full_screen-header .fs-dropdown-menu > li > a,#site-header.top-header #site-navigation-wrap .dropdown-menu > li > a,#site-header.center-header #site-navigation-wrap .dropdown-menu > li > a,#site-header.medium-header #site-navigation-wrap .dropdown-menu > li > a,.oceanwp-mobile-menu-icon a{font-size:16px;text-transform:capitalize;}#menu-item-73 a span{background-color :#26A7F0;padding :10px;border-radius :10px}#menu-item-73 a span:hover{color:#fff !important}

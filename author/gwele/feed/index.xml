@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gwele, auteur/autrice sur GWELE</title>
+	<atom:link href="/author/gwele/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/gwele/</link>
+	<description>Faciliter la collaboration, l&#039;organisation et la productivité des équipes en un seul endroit.</description>
+	<lastBuildDate>Sat, 12 Oct 2024 22:57:06 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Acceuil</title>
+		<link>/2024/10/13/acceuil/</link>
+					<comments>/2024/10/13/acceuil/#respond</comments>
+		
+		<dc:creator><![CDATA[gwele]]></dc:creator>
+		<pubDate>Sat, 12 Oct 2024 22:54:18 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">/?p=48</guid>
+
+					<description><![CDATA[<p>Votre Solution Innovante Planification Efficace Découvrez comment notre application transforme la gestion des réunions et simplifie les échanges au sein des équipes. Grâce à des outils intuitifs, organisez vos tâches et suivez votre performance financière sans effort. Événement Principale Détails de la Réunion Organisez vos discussions pour une efficacité maximale. Informations Clés Profitez de fonctionnalités [&#8230;]</p>
+<p>L’article <a href="/2024/10/13/acceuil/">Acceuil</a> est apparu en premier sur <a href="">GWELE</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="48" class="elementor elementor-48" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-a15f8e0 e-flex e-con-boxed e-con e-parent" data-id="a15f8e0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4ec2595 e-con-full e-flex e-con e-child" data-id="4ec2595" data-element_type="container">
+				<div class="elementor-element elementor-element-dc87ca6 elementor-widget elementor-widget-heading" data-id="dc87ca6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Votre Solution Innovante</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b875025 elementor-widget elementor-widget-heading" data-id="b875025" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Planification Efficace</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9af871f elementor-widget elementor-widget-text-editor" data-id="9af871f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Découvrez comment notre application transforme la gestion des réunions et simplifie les échanges au sein des équipes. Grâce à des outils intuitifs, organisez vos tâches et suivez votre performance financière sans effort.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a7a00d0 e-con-full e-flex e-con e-child" data-id="a7a00d0" data-element_type="container">
+		<div class="elementor-element elementor-element-8b685b6 e-con-full e-flex e-con e-child" data-id="8b685b6" data-element_type="container">
+		<div class="elementor-element elementor-element-fc9095a e-con-full e-flex e-con e-child" data-id="fc9095a" data-element_type="container">
+				<div class="elementor-element elementor-element-1418c8c elementor-widget elementor-widget-heading" data-id="1418c8c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Événement Principale</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1fb491e elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1fb491e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Détails de la Réunion						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Organisez vos discussions pour une efficacité maximale.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e61635d elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="e61635d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Informations Clés						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Profitez de fonctionnalités qui facilitent la gestion.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-83e5f8f elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="83e5f8f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Rapports de Performance						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Suivez vos résultats financiers en temps réel.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b75b45 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="4b75b45" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Gestion des Tâches						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Assignez, planifiez et surveillez vos missions aisément.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5cd0092 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="5cd0092" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Voir les Fonctionnalités</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e97031f e-con-full e-flex e-con e-child" data-id="e97031f" data-element_type="container">
+				<div class="elementor-element elementor-element-16138d4 elementor-widget elementor-widget-image" data-id="16138d4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="626" height="433" src="/wp-content/uploads/2024/10/reunion-affaires-gens-plats-illustration-conference-presentation-homme-affaires-au-projet-strategie-infographique-concept-vecteur-seminaire-equipe_53562-9788.avif" class="attachment-large size-large wp-image-42" alt="" srcset="/wp-content/uploads/2024/10/reunion-affaires-gens-plats-illustration-conference-presentation-homme-affaires-au-projet-strategie-infographique-concept-vecteur-seminaire-equipe_53562-9788.avif 626w, /wp-content/uploads/2024/10/reunion-affaires-gens-plats-illustration-conference-presentation-homme-affaires-au-projet-strategie-infographique-concept-vecteur-seminaire-equipe_53562-9788-300x208.avif 300w" sizes="(max-width: 626px) 100vw, 626px" />													</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6383593 e-con-full e-flex e-con e-child" data-id="6383593" data-element_type="container">
+		<div class="elementor-element elementor-element-d09d9b4 e-con-full e-flex e-con e-child" data-id="d09d9b4" data-element_type="container">
+				<div class="elementor-element elementor-element-1c6db55 elementor-widget elementor-widget-heading" data-id="1c6db55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Événement Principale</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6dbc7f4 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6dbc7f4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Détails Pratiques						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Accédez à des informations claires et précises.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0815f4 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="d0815f4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							FAQ et Support						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Trouver des réponses à toutes vos questions rapidement.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a8be56 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0a8be56" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Suivi des Progrès						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Évaluez les performances de votre équipe facilement.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d1f976 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6d1f976" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Plans Financiers						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Contrôlez vos budgets pour mieux décider.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3d839cb elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="3d839cb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Obtenez une Démo</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a8f6abf e-con-full e-flex e-con e-child" data-id="a8f6abf" data-element_type="container">
+				<div class="elementor-element elementor-element-c8ae88b elementor-widget elementor-widget-image" data-id="c8ae88b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" src="https://gene-2697.live.strattic.io/wp-content/uploads/2024/02/wireframe-img-1-e1708013680578.png" title="" alt="" loading="lazy" />													</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6b6aea1 e-con-full e-flex e-con e-child" data-id="6b6aea1" data-element_type="container">
+		<div class="elementor-element elementor-element-7de7a65 e-con-full e-flex e-con e-child" data-id="7de7a65" data-element_type="container">
+				<div class="elementor-element elementor-element-e69ebad elementor-widget elementor-widget-heading" data-id="e69ebad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Événement Principale</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ad07546 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="ad07546" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Agenda Détails						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Planifiez chaque séance avec soin.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-20413ed elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="20413ed" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Attributions de Tâches						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Assurez-vous que chaque membre sait quoi faire.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1048bf3 elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1048bf3" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Rapports Mensuels						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Analysez vos progrès réguliers pour évoluer.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cb3213f elementor-position-left elementor-tablet-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="cb3213f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Bilan de Réunion						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Documentez chaque réunion pour des suivis efficaces.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a5958af elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="a5958af" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">En Savoir Plus</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-080242c e-con-full e-flex e-con e-child" data-id="080242c" data-element_type="container">
+				<div class="elementor-element elementor-element-579e4ff elementor-widget elementor-widget-image" data-id="579e4ff" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" src="https://gene-2697.live.strattic.io/wp-content/uploads/2024/02/wireframe-img-1-e1708013680578.png" title="" alt="" loading="lazy" />													</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="/2024/10/13/acceuil/">Acceuil</a> est apparu en premier sur <a href="">GWELE</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/10/13/acceuil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
